@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5bff41be6f848fd83828bbc32c4f03c/artifacts
+end_time: 1742793602981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5bff41be6f848fd83828bbc32c4f03c
+run_name: adventurous-squid-88
+run_uuid: d5bff41be6f848fd83828bbc32c4f03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742793601986
+status: 3
+tags: []
+user_id: GIHAN LAKMAL

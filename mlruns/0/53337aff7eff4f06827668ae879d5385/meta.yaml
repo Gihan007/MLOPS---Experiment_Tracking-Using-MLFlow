@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/53337aff7eff4f06827668ae879d5385/artifacts
+end_time: 1742793782434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53337aff7eff4f06827668ae879d5385
+run_name: dashing-ant-248
+run_uuid: 53337aff7eff4f06827668ae879d5385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742793782110
+status: 3
+tags: []
+user_id: GIHAN LAKMAL

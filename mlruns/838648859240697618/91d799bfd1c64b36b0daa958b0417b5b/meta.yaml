@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/838648859240697618/91d799bfd1c64b36b0daa958b0417b5b/artifacts
+end_time: 1742795232158
+entry_point_name: ''
+experiment_id: '838648859240697618'
+lifecycle_stage: active
+run_id: 91d799bfd1c64b36b0daa958b0417b5b
+run_name: intrigued-crane-745
+run_uuid: 91d799bfd1c64b36b0daa958b0417b5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742795231821
+status: 3
+tags: []
+user_id: GIHAN LAKMAL

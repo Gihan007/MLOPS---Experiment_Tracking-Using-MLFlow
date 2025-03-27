@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/838648859240697618/c85fd23330b3462a8f0b25ea05ae7335/artifacts
+end_time: 1742823767490
+entry_point_name: ''
+experiment_id: '838648859240697618'
+lifecycle_stage: active
+run_id: c85fd23330b3462a8f0b25ea05ae7335
+run_name: able-wren-990
+run_uuid: c85fd23330b3462a8f0b25ea05ae7335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742823767067
+status: 3
+tags: []
+user_id: GIHAN LAKMAL
