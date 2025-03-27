@@ -5,14 +5,6 @@ from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
 
-
-import dagshub
-
-dagshub.init(repo_owner='Gihan007', repo_name='MLOPS---Experiment_Tracking-Using-MLFlow', mlflow=True)
-
-mlflow.set_tracking_uri("https://dagshub.com/Gihan007/MLOPS---Experiment_Tracking-Using-MLFlow.mlflow")
-
-
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
 X = pd.DataFrame(data.data, columns=data.feature_names)

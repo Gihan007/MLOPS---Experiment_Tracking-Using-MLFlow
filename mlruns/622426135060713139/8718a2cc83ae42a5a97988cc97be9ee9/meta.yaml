@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GIHAN%20LAKMAL/Desktop/2ndSem/MLOPS---Experiment_Tracking-Using-MLFlow/mlruns/622426135060713139/8718a2cc83ae42a5a97988cc97be9ee9/artifacts
+end_time: 1743070740662
+entry_point_name: ''
+experiment_id: '622426135060713139'
+lifecycle_stage: active
+run_id: 8718a2cc83ae42a5a97988cc97be9ee9
+run_name: popular-worm-791
+run_uuid: 8718a2cc83ae42a5a97988cc97be9ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743070740648
+status: 3
+tags: []
+user_id: GIHAN LAKMAL

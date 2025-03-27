@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/GIHAN%20LAKMAL/Desktop/2ndSem/MLOPS---Experiment_Tracking-Using-MLFlow/mlruns/622426135060713139
+creation_time: 1743070736915
+experiment_id: '622426135060713139'
+last_update_time: 1743070736915
+lifecycle_stage: active
+name: breast-cancer-rf-hp
